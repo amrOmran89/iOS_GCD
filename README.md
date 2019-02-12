@@ -1,6 +1,6 @@
 # iOS Grand Central Dispatch
 
-## Example
+## DispatchGroup()
 
 ```swift
 import UIKit
